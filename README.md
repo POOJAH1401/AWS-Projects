@@ -15,10 +15,10 @@ Hello, I'm **Pooja Hase**, passionate about cloud computing and AWS. This portfo
 ### 2. CloudFormation Template
 - **Description**: Hosting an Apache Web server using CloudFormation  
 - **Tech**: AWS CloudFormation  
-- **Link**: [View Project](https://github.com/pooja-hase/aws-cloudformation-apache)
+- **Link**: [View Project](https://github.com/POOJAH1401/AWS-Projects/tree/main/aws-cloudformation-webserver)
 
 ## 📬 Contact
-- **LinkedIn**: [Pooja Hase]([https://www.linkedin.com/in/pooja-hase-46a820248](https://github.com/POOJAH1401/AWS-Projects/tree/main/aws-cloudformation-webserver))
+- **LinkedIn**: [Pooja Hase]([https://www.linkedin.com/in/pooja-hase-46a820248])
 
 Thanks for checking out my portfolio! 🌐
 
