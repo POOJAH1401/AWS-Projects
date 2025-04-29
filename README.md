@@ -18,7 +18,7 @@ Hello, I'm **Pooja Hase**, passionate about cloud computing and AWS. This portfo
 - **Link**: [View Project](https://github.com/pooja-hase/aws-cloudformation-apache)
 
 ## 📬 Contact
-- **LinkedIn**: [Pooja Hase](https://www.linkedin.com/in/pooja-hase-46a820248)
+- **LinkedIn**: [Pooja Hase]([https://www.linkedin.com/in/pooja-hase-46a820248](https://github.com/POOJAH1401/AWS-Projects/tree/main/aws-cloudformation-webserver))
 
 Thanks for checking out my portfolio! 🌐
 
