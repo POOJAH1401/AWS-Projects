@@ -7,10 +7,10 @@ Hello, I'm **Pooja Hase**, passionate about cloud computing and AWS. This portfo
 
 ## 📁 Projects Overview
 
-### 1. S3 Static Website
-- **Description**: Hosting a static website on S3  
-- **Tech**: AWS S3  
-- **Link**: [View Project](https://github.com/pooja-hase/aws-s3-static-website) 
+### 1.EC2 Web Server Deployment on AWS
+- **Description**: Hosting an Apache Web-server
+- **Tech**: AWS EC2,Ealstic IP. 
+- **Link**: [View Project](https://github.com/POOJAH1401/AWS-Projects/tree/main/aws-apache-Webserver)
 
 ### 2. CloudFormation Template
 - **Description**: Hosting an Apache Web server using CloudFormation  
